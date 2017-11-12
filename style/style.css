@@ -3,6 +3,12 @@
     text-align: center;
 }
 
+.search-bar .logo {
+    padding: 5px;
+    height: auto;
+    width: 120px;
+}
+
 .search-bar input {
     width: 75%;
 }
